@@ -54,6 +54,7 @@ export default function Home() {
           ))}
         </div>
 
+        /**
         <div className="flex bottom-24 justify-center">
         <Image className="justify-center content-center"
         src="/tree.svg"
@@ -62,6 +63,7 @@ export default function Home() {
         alt="Tree"
         />
         </div>
+        */
 
       </div>
     </main>
