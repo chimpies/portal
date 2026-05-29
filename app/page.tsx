@@ -54,11 +54,11 @@ export default function Home() {
           ))}
         </div>
 
-        <div className="flex pt-24 justify-center">
+        <div className="flex bottom-24 justify-center">
         <Image className="justify-center content-center"
         src="/tree.svg"
-        width={20}
-        height={40}
+        width={40}
+        height={80}
         alt="Tree"
         />
         </div>
