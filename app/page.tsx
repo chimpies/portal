@@ -54,6 +54,15 @@ export default function Home() {
           ))}
         </div>
 
+        <div className="flex pt-8 content-center">
+        <Image className="justify-center content-center"
+        src="/tree.svg"
+        width={50}
+        height={50}
+        alt="Tree"
+        />
+        </div>
+
       </div>
     </main>
   );
