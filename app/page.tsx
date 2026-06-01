@@ -15,7 +15,7 @@ const links = [
     href: "https://discord.gg/q9DdaAGmDk"
   },
   {
-    title: "OpenSea",
+    title: "OpenSea (Soon)",
     href: "https://opensea.io/collection/irukandji/",
   },
   {
