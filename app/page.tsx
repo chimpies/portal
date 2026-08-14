@@ -4,27 +4,23 @@ import LinkItem from "@/components/LinkItem";
 const links = [
   {
     title: "Website",
-    href: "https://irukandji.wtf/",
+    href: "https://chimpies.xyz/",
   },
   {
     title: "X",
-    href: "https://x.com/irukandjinfts/",
+    href: "https://x.com/chimpiesnfts",
   },
   {
     title: "Discord",
-    href: "https://discord.gg/q9DdaAGmDk"
+    href: "https://discord.gg/SqUh8eFxrp"
   },
   {
-    title: "OpenSea (Soon)",
-    href: "https://opensea.io/collection/irukandji/",
+    title: "Tensor (Soon)",
+    href: "https://tensor.trade/",
   },
   {
     title: "Magic Eden (Soon)",
     href: "https://magiceden.io/",
-  },
-  {
-    title: "License (Soon)",
-    href: "#",
   },
 ];
 
@@ -35,8 +31,8 @@ export default function Home() {
 
         <div className="flex justify-center pt-12 mb-24 md:mb-32">
           <Image
-            src="/irukandji.png"
-            alt="Irukandji Logo"
+            src="/c.png"
+            alt="Chimpies Logo"
             width={60}
             height={120}
             priority
