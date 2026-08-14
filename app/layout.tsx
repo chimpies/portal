@@ -15,8 +15,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Irukandji | Portal",
-  description: "A Portal that can take you to the world of the Irukandji",
+  title: "Chimpies | Portal",
+  description: "A Portal that can take you to the jungle.",
 };
 
 export default function RootLayout({
