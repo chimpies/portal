@@ -29,14 +29,14 @@ export default function Home() {
     <main className="min-h-screen bg-[#EEDECD]">
       <div className="max-w-5xl mx-auto px-6 md:px-12">
 
-        <div className="flex justify-center pt-12 mb-24 md:mb-32">
+        <div className="relative w-full max-w-2xl h-[250px] flex justify-center pt-12 mb-24 md:mb-32">
           <Image
             src="/chimpies-wordmark.png"
             alt="Chimpies"
             width={1000}
             height={500}
             priority
-            className="object-contain"
+            className="object-contain object-cover"
           />
         </div>
 
