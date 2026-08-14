@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
+  --background: #EEDECD;
 }
 
 a,
@@ -20,7 +20,7 @@ html {
 
 body {
   background: var(--background);
-  color: #ffffff;
+  color: #EEDECD;
   overflow-x: hidden;
   font-family: var(--font-body);
 }
