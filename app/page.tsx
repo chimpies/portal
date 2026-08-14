@@ -31,8 +31,8 @@ export default function Home() {
 
         <div className="flex justify-center pt-12 mb-24 md:mb-32">
           <Image
-            src="/c.png"
-            alt="Chimpies Logo"
+            src="/chimpies-wordmark.png"
+            alt="Chimpies"
             width={60}
             height={120}
             priority
