@@ -30,8 +30,8 @@ export default function RootLayout({
   className={`
   ${bebas.variable}
   ${inter.variable}
-  bg-[#0c0c0c]
-  text-white
+  bg-[#cccecd]
+  text-black
   `}
 >
         {children}
