@@ -33,8 +33,8 @@ export default function Home() {
           <Image
             src="/chimpies-wordmark.png"
             alt="Chimpies"
-            width={60}
-            height={120}
+            width={1000}
+            height={500}
             priority
             className="object-contain"
           />
