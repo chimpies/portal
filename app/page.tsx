@@ -26,7 +26,7 @@ const links = [
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-[#0C0C0C]">
+    <main className="min-h-screen bg-[#EEDECD]">
       <div className="max-w-5xl mx-auto px-6 md:px-12">
 
         <div className="flex justify-center pt-12 mb-24 md:mb-32">
@@ -40,7 +40,7 @@ export default function Home() {
           />
         </div>
 
-        <div className="border-t border-[#d0ccc2]">
+        <div className="border-t border-[#303030]">
           {links.map((item) => (
             <LinkItem
               key={item.title}
