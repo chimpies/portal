@@ -22,8 +22,8 @@ export default function LinkItem({
       py-8  
       md:py-10  
       border-b  
-      border-[#d0ccc2]  
-      text-white  
+      border-[#EEDECD]  
+      text-[#303030]  
       no-underline  
       "  
     >  
