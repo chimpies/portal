@@ -12,7 +12,7 @@ const links = [
   },
   {
     title: "Discord",
-    href: "https://discord.gg/SqUh8eFxrp"
+    href: "https://discord.gg/hmJxPHnnR2"
   },
   {
     title: "Tensor (Soon)",
